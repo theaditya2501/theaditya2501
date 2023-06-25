@@ -1,0 +1,126 @@
+body {
+    text-align:center;
+    margin:0;
+    font-family:'marriweather', serif;
+    color:#40514E;
+    
+}
+.top-container {
+    background-color:#E4F9F5;
+    padding:50px;
+    margin-bottom:20px;
+}
+h1 {
+    font-family:'Sacramento', cursive;
+    font-size:5.625rem;
+    line-height: 1.5;
+    margin:100px auto 0 auto;
+    color:#66BFBF;
+}
+h2 {
+    font-family:'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#66BFBF;
+    
+}
+h3 {
+    font-family:'Montserrat', sans-serif;
+    font-weight: normal;
+    color:#11999E;
+}
+.bottom-cloud {
+    position:absolute;
+    left:150px
+}
+.top-cloud {
+    position:absolute;
+    top:50px;
+    right:250px;
+}
+.profile-img {
+    width:150px;
+    margin-top:20px;
+}
+.hello {
+    margin-top:10px;
+    margin-bottom:35px;
+}
+.intro {
+    color:#40514E;
+    margin-top:12px;
+    width:30%;
+    margin:auto;
+}
+.computer-img {
+    width:30%;
+    float:left;
+    margin-right: 30px;
+}
+.gaming-img {
+    width:30%;
+    float:right;
+    margin-left:20px;
+}
+.social-link{
+    padding:2px 0px 1px;
+}
+a {
+    color:#11999e;
+    text-decoration: none;
+    padding:10px;
+}
+.skill-row {
+    width:50%;
+    margin:80px auto 80px;
+    text-align:left;
+    line-height:1.3;
+    padding-bottom: 50px;
+
+}
+.hr-top {
+    width:7%;
+    border-style:dotted none none none;
+    border-width: 7px;
+    border-color:#EAF6F6;
+    margin-top:50px;
+}
+.hr-bottom {
+    width:7%;
+    border-style:dotted none none none;
+    border-width: 7px;
+    border-color:#EAF6F6;
+    margin-bottom:40px;
+}
+.bottom-container {
+    padding-top:30px;
+    height: 120px;
+    background-color:#66BFBF;
+}
+.last {
+    color:#EAF6F6;
+    padding-top:10px;
+    font-size:15px;
+    margin-bottom:10px;;
+}
+h4 {
+    color:#11999e;
+    margin-top:0;
+    
+}
+a:hover {
+    color:#E4F9F5;
+}
+.social-link{
+    padding:10px;
+}
+.skills{
+    background-color:#C9EEFF;
+    padding:7% 17%;
+}
+.writing-img {
+    width:30%;
+    float:left;
+    margin-right: 30px;
+    margin-bottom:20px;
+    margin-top:5px;
+}
